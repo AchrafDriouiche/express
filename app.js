@@ -21,6 +21,6 @@ app.post('/sendResult', (req,res) => {
 })
 
 
-app.listen(8080,(req,res) => {
+app.listen(80,(req,res) => {
      console.log("server started at PORT : 8080 | ASLOO")
 })
